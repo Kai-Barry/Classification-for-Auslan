@@ -1520,7 +1520,7 @@ HARE_|_Local Movement
 
 HAT_|_Unknown
 
-HAT(5)-2H_|_Down
+HAT(5)-2H_|_None
 HAT-HEAD1_|_Unknown
 
 HAT-HEAD1A_|_None
@@ -1529,17 +1529,17 @@ HAVE-2H_|_None
 HAVE-NONE_|_None
 HAVE-NONE-OF_|_None
 HAVE-NONE-OF-2H_|_None
-HAVE-NOT_|_Up
-HAVE-NOT-2H_|_Unknown
+HAVE-NOT_|_None
+HAVE-NOT-2H_|_None
 HEAD_|_None
-HEAR_|_Local Movement
+HEAR_|_None
 HEAR2_|_None
 HEAR2(1)_|_None
-HEAR2(5)_|_Unknown
+HEAR2(5)_|_None
 HEAR2(B)_|_None
 HEARING1_|_None
 HEART-THROB_|_None
-HEART-THROB-1H_|_Local Movement
+HEART-THROB-1H_|_None
 HEAVY_|_None
 HELLO_|_None
 HELLO1_|_None
@@ -1548,18 +1548,18 @@ HELP1_|_None
 HI_|_None
 HIDE1_|_None
 HIDE1A_|_None
-HIGHWAY_|_Side to Side
+HIGHWAY_|_None
 HILL_|_None
 HILLS_|_None
 HOLD_|_None
-HOLD-2H_|_Local Movement
-HOLD-OFFER-BANANA_|_Away
-HOLD-ON_|_Away
+HOLD-2H_|_None
+HOLD-OFFER-BANANA_|_None
+HOLD-ON_|_None
 HOLD-ON(5)_|_None
 HOLD-ON(B)_|_None
-HOLD-ON-2H_|_Unknown
-HOLE_|_Local Movement
-HOLE1_|_Local Movement
+HOLD-ON-2H_|_None
+HOLE_|_None
+HOLE1_|_None
 HOLE2_|_None
 HOLE2B_|_None
 HOME_|_None
@@ -1569,27 +1569,27 @@ HOPE_|_None
 HORNS_|_None
 HORRIBLE_|_None
 HORSE_|_None
-HOT_|_Away
+HOT_|_None
 HOT(FALSE START)_|_None
-HOT-2H_|_Away
+HOT-2H_|_None
 HOUR_|_None
 HOUR1_|_None
 HOUSE_|_None
-HOUSE(2)_|_Unknown
-HOUSE(H)_|_Down
+HOUSE(2)_|_None
+HOUSE(H)_|_None
 HOW_|_None
 HOW-MANY_|_None
 HOW1_|_None
 HOW2_|_None
 HUG_|_None
-HUNGRY_|_Local Movement
+HUNGRY_|_None
 HURRY_|_None
 HURRY(H)_|_None
 HURT_|_None
-IDEA_|_Away
+IDEA_|_None
 IF_|_None
 IGNORE_|_None
-IMAGINE3_|_Sideways
+IMAGINE3_|_None
 IMPOSSIBLE_|_None
 IN_|_None
 IN(2)_|_None
@@ -1599,16 +1599,16 @@ IN-1H_|_None
 IN-CASE_|_None
 INCECIPHERABLE_|_None
 INCREDIBLE_|_None
-INDECIPERABLE_|_Unknown
+INDECIPERABLE_|_None
 INDECIPHERABLE_|_None
 INDECIPHERABLE(FALSE-START)_|_None
 INDETERMINATE_|_None
 INFORM_|_None
 INFORM(B)_|_None
-INSERT-COIN_|_Local Movement
+INSERT-COIN_|_None
 INSIDE_|_None
 INSIDE(FLATO)_|_None
-INSIDE-1H_|_Unknown
+INSIDE-1H_|_None
 INSTANT_|_None
 INTEND2_|_None
 INTEND2(F)_|_None
@@ -1618,71 +1618,71 @@ INTERESTING_|_None
 INTERMITTENT_|_None
 INTERRUPT_|_None
 INTERSECT_|_None
-INTUITION_|_Unknown
+INTUITION_|_None
 INVENT_|_None
-INVENT2_|_Up
+INVENT2_|_None
 IRRITATED_|_None
 ISLAND1_|_None
 IT(SE)_|_None
-ITCH_|_Back and Forth
+ITCH_|_None
 JACKET1(F)_|_None
 JAR_|_None
-JOIN2_|_Local Movement
-JOKE_|_Away
+JOIN2_|_None
+JOKE_|_None
 JOKE-1H_|_None
 JOKE-2_|_None
 JOKE-2H_|_None
-JOKE1-2H_|_Away
+JOKE1-2H_|_None
 JOKE1-2H(FALSE-START)_|_None
-JUMP_|_Up
-JUMP-OFF_|_Up and Down
-JUMP-UP_|_Up
-JUMP-UP(P)_|_Up
-JUMP-UP(variants)_|_Up
-JUMPER_|_Down
+JUMP_|_None
+JUMP-OFF_|_None
+JUMP-UP_|_None
+JUMP-UP(P)_|_None
+JUMP-UP(variants)_|_None
+JUMPER_|_None
 JUST(SE)_|_None
-JUST-FOR-FUN_|_Down
-KANGAROO_|_Up and Down
+JUST-FOR-FUN_|_None
+KANGAROO_|_None
 KEEN_|_None
 KEEN(BENT8)_|_None
-KEEP_|_Sideways
-KICK_|_Up and Down
+KEEP_|_None
+KICK_|_None
 KILL_|_None
-KILL-X_|_Away
+KILL-X_|_None
 KISS_|_None
-KNEEL_|_Down
+KNEEL_|_None
 KNIFE_|_None
-KNIFE(H)_|_Down
-KNOCK-1H_|_Local Movement
+KNIFE(H)_|_None
+KNOCK-1H_|_None
 KNOW_|_None
 KNOW(7)_|_None
 KNOW-NOT_|_None
 KNOW-NOT-2H_|_None
-KNOW-YOU_|_Away
+KNOW-YOU_|_None
 KNOW-YOU(CHEEK)_|_None
 LAB7_|_None
-LADY_|_Down
+LADY_|_None
 LADY1_|_None
 LADY1(FALSE START)_|_None
 LADY2_|_None
-LARGE_|_Sideways
+LARGE_|_None
 LARGE-HEAP_|_None
 LAST_|_None
-LAST-THREE-YEAR_|_Down
+LAST-THREE-YEAR_|_None
 LATE_|_None
 LATER_|_None
-LATER(B)_|_Sideways
-LAUGH_|_Side to Side
+LATER(B)_|_None
+LAUGH_|_None
 LAUGH(BC)_|_None
 LAUGH-1H_|_None
 LAUGH-AT_|_None
 LEAF_|_None
-LEAP-INTO-THE-AIR_|_Up
+LEAP-INTO-THE-AIR_|_None
 LEARN_|_None
-LEARN-MY-LESSON_|_Away
-LEARN2_|_Towards
+LEARN-MY-LESSON_|_None
+LEARN2_|_None
 LEARNT_|_None
-LEAVING_|_Unknown
+LEAVING_|_None
 LEFT-SIDE_|_None
 LEG_|_None
 LENGTH_|_None

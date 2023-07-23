@@ -1,5 +1,6 @@
-![image](https://github.com/Kai-Barry/Classification-for-Auslan/assets/88063818/31cc35f3-a920-42f4-bf39-ced85064e25d)# Comparing Models for Classifying Location and Movement Parameters for Auslan Sign Language
-![image](https://github.com/Kai-Barry/Classification-for-Auslan/assets/88063818/316468fc-886d-446f-b3d8-173a70c2d23a)
+# Comparing Models for Classifying Location and Movement Parameters for Auslan Sign Language
+
+![image](https://github.com/Kai-Barry/Classification-for-Auslan/assets/88063818/b88efc86-f5a6-45f0-b209-c14bbcd2c83f)
 
 ## About
 
